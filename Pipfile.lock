@@ -1,0 +1,47 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b7bd6dc8d083627806951f4c2222a7e2a2b602bad68d09408a86339e404ea104"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pysam": {
+            "hashes": [
+                "sha256:08f88fa4472e140e39c9ec3c01643563587a28e49c115ef9077295b0452342ac",
+                "sha256:097eedc82095ff52e020b6e0e099a171313e60083c68ad861ac474f325e2b7d0",
+                "sha256:18478ac02511d6171bce1891b503031eaf5e22b7a38cf62e00f3a070a4a37da2",
+                "sha256:2fd8fa6205ad893082ec0aa1992446e3d9c63bfe9f7a3e59d81a956780e5cc2a",
+                "sha256:4032361c424fb3b27a7da7ddeba0de8acb6c548b025bdc03c8ffc6b306d7ee9a",
+                "sha256:4d0a35dec9194bacbde0647ddf32ebf805a6724b0192758039c031fce849f01f",
+                "sha256:4f5188fda840fe51144b8c56c45af014174295c3f539a40333f9e270ca0d5e01",
+                "sha256:5d140da81ca42f474006f5cc0fd66647f1b08d559af7026bbe9f01fab029bffd",
+                "sha256:6f802073d625a6a9b47aaaed6ff6b08e90ec4ad79df271073452fa8c7a62c529",
+                "sha256:7caada03fbec2e18b8eb2c80aabf8834ea2ceb12b2aa1c0fa6d4ba42b60d83fa",
+                "sha256:c4a8099cf474067eaf5e270b5e71433a9ea0e97af90262143a655528eb756cd9",
+                "sha256:cb2c3ca9ff3b5c9694846254fea9f8697406a35769b11767a312e97ad5c8cedd",
+                "sha256:eb35399530188efe48ef136a043ba3acf9f538f1b11e946f3aaea9fd09c8cbde"
+            ],
+            "index": "pypi",
+            "version": "==0.17.0"
+        },
+        "vcfpy": {
+            "hashes": [
+                "sha256:61ad872a35160ed3a8e1ec1799fd3dbb1985716bd26cc48dd3cdde4f1db29663"
+            ],
+            "index": "pypi",
+            "version": "==0.13.3"
+        }
+    },
+    "develop": {}
+}
